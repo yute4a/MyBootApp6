@@ -1,4 +1,4 @@
-package jp.te4a.spring.boot.mybootapp9;
+package jp.te4a.spring.boot.mybootapp10;
 
 import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;
